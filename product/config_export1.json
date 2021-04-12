@@ -1,0 +1,12 @@
+{
+   "project_id": "byzzer-production",
+   "dataset": "byzzer_support",
+   "dataset_manual": "byzzer_manual",
+   "table_market_file": "rev_share_markets_export",
+   "share_market_file": "rev_share_markets_export.csv",
+   "char_list_core_plus_file": "char_list_core_plus.csv",
+   "char_list_core_plus_table": "char_list_core_plus",
+   "bucket_name": "postgres_refresh_prod/product_brand_value/bq_data_export",
+   "file_name" : ["unicorn_hier_no_upc.csv","stg_chr_val_used_14.csv","stg_chr_assignment.csv","max_date.csv"],
+   "table_id" : ["unicorn_hier_no_upc","stg_chr_val_used_14","stg_chr_assignment","max_date"]
+}
